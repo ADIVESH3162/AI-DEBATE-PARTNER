@@ -1,0 +1,2 @@
+# AI DEBATE PARTNER
+AI debate partner is a sophisticated conversational agent designed to engage in structured, thought-provoking discussions across a wide range of topics. Equipped with vast knowledge, logical reasoning, and rhetorical skills, it can argue both sides of an issue, challenge assumptions, and sharpen critical thinking. Whether you're preparing for a debate competition, exploring philosophical dilemmas, or simply testing your ideas, an AI debate partner offers a responsive, unbiased, and intellectually stimulating counterpart.
